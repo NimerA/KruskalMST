@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nimer/CLionProjects/KruskalMST/Edge.cpp
+Edge.h
+/Users/nimer/CLionProjects/KruskalMST/Edge.h
+
+/Users/nimer/CLionProjects/KruskalMST/Edge.h
+
+/Users/nimer/CLionProjects/KruskalMST/Test.cpp
+Test.h
+/Users/nimer/CLionProjects/KruskalMST/Test.h
+
+/Users/nimer/CLionProjects/KruskalMST/Test.h
+iostream
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+map
+-
+queue
+-
+list
+-
+Edge.h
+/Users/nimer/CLionProjects/KruskalMST/Edge.h
+
+/Users/nimer/CLionProjects/KruskalMST/main.cpp
+Test.h
+/Users/nimer/CLionProjects/KruskalMST/Test.h
+iostream
+-
+Edge.h
+/Users/nimer/CLionProjects/KruskalMST/Edge.h
+
